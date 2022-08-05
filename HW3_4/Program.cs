@@ -19,4 +19,4 @@ int G = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введи восьмой элемент массива");
 int H = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[8] { A,B,C,D,E,F,G,H };
-Console.WriteLine("вот, твой массив из восьми эллементов [" + string.Join(", ",array) + "]");
+Console.WriteLine("вот, твой массив из восьми элементов [" + string.Join(", ",array) + "]");
