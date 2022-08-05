@@ -1,0 +1,15 @@
+E:\programmer\С#4\homework_C-_4\HW3_2\bin\Debug\net6.0\HW3_2.exe
+E:\programmer\С#4\homework_C-_4\HW3_2\bin\Debug\net6.0\HW3_2.deps.json
+E:\programmer\С#4\homework_C-_4\HW3_2\bin\Debug\net6.0\HW3_2.runtimeconfig.json
+E:\programmer\С#4\homework_C-_4\HW3_2\bin\Debug\net6.0\HW3_2.dll
+E:\programmer\С#4\homework_C-_4\HW3_2\bin\Debug\net6.0\HW3_2.pdb
+E:\programmer\С#4\homework_C-_4\HW3_2\obj\Debug\net6.0\HW3_2.csproj.AssemblyReference.cache
+E:\programmer\С#4\homework_C-_4\HW3_2\obj\Debug\net6.0\HW3_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\programmer\С#4\homework_C-_4\HW3_2\obj\Debug\net6.0\HW3_2.AssemblyInfoInputs.cache
+E:\programmer\С#4\homework_C-_4\HW3_2\obj\Debug\net6.0\HW3_2.AssemblyInfo.cs
+E:\programmer\С#4\homework_C-_4\HW3_2\obj\Debug\net6.0\HW3_2.csproj.CoreCompileInputs.cache
+E:\programmer\С#4\homework_C-_4\HW3_2\obj\Debug\net6.0\HW3_2.dll
+E:\programmer\С#4\homework_C-_4\HW3_2\obj\Debug\net6.0\refint\HW3_2.dll
+E:\programmer\С#4\homework_C-_4\HW3_2\obj\Debug\net6.0\HW3_2.pdb
+E:\programmer\С#4\homework_C-_4\HW3_2\obj\Debug\net6.0\HW3_2.genruntimeconfig.cache
+E:\programmer\С#4\homework_C-_4\HW3_2\obj\Debug\net6.0\ref\HW3_2.dll
