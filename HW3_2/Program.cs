@@ -11,6 +11,6 @@ Random myRandom = new Random();
  Console.WriteLine("рандомный массив из 8 эллиментов от "+ min+" до "+max);
 for (int i = 0; i < array.Length; i++)
 {
-array[i] = myRandom.Next(min, max);
-Console.Write("{0} ", array[i]);
+array[i] = myRandom.Next(min, max+1);
 }
+Console.WriteLine("[" + string.Join(", ",array) + "]");
