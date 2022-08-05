@@ -16,4 +16,4 @@ for (int i = 0; i < array.Length; i++)
 {
 array[i] = myRandom.Next(min, max+1);
 }
-Console.WriteLine("[" + string.Join(", ",array) + "]");
+Console.WriteLine("вот, твой массив из восьми эллементов [" + string.Join(", ",array) + "]");

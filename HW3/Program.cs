@@ -10,4 +10,4 @@ for (int i = 0; i < array.Length; i++)
 {
 array[i] = myRandom.Next(0, 999999);
 }
-Console.WriteLine("[" + string.Join(", ",array) + "]");
+Console.WriteLine("вот, твой массив из восьми эллементов [" + string.Join(", ",array) + "]");
