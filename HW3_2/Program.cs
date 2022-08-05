@@ -8,7 +8,7 @@ Console.WriteLine("Введи Верхний предел массива");
 int max = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[8];
 Random myRandom = new Random();
- Console.WriteLine("рандомный массив из 8 эллиментов от "+ min+" до "+max);
+Console.WriteLine("рандомный массив из  восьми (8) эллиментов от "+ min+" до "+max);
 for (int i = 0; i < array.Length; i++)
 {
 array[i] = myRandom.Next(min, max+1);
